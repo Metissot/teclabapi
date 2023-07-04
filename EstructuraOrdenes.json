@@ -1,0 +1,23 @@
+{
+"OrderId":15487,
+"Adress":"Castelli 169",
+"Status":"en preparacion",
+
+"Articles":[
+    {
+        "Name":"laptop",
+        "Quantity":2,
+        "Dangerous":false
+    }
+    {
+        "Name":"telefono",
+        "Quantity":3,
+        "Dangerous":false
+    }
+    {
+        "Name":"baterias",
+        "Quantity":5,
+        "Dangerous":true
+    }
+]
+}
